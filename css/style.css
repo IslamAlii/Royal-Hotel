@@ -248,7 +248,7 @@ header main .text p {
 .facilites {
   background-image: url(../images/facilites_bg.jpg);
   position: relative;
-  padding: 5rem;
+  padding: 5rem 0;
 }
 
 .facilites .overlay {
@@ -646,7 +646,7 @@ footer .container:last-of-type .social i:hover {
   }
 
   .facilites .container > div {
-    padding: 25px 30px 27px;
+    padding: 2rem 1.5rem;
   }
 
   .testimonials .container > div {
